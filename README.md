@@ -10,3 +10,6 @@ leptonica
 
 ocr
 tesseract
+
+使用
+tesseract image.png text
